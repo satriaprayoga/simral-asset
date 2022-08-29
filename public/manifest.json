@@ -1,6 +1,6 @@
 {
-    "name":"SIMR@L asset Helper",
-    "description":"To Help The SIMR@L Apps",
+    "name":"SIMR@L BAST Validator",
+    "description":"Cek BAST SIMR@L",
     "version":"1.0",
     "manifest_version":3,
     "action":{
