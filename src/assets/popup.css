@@ -4,6 +4,6 @@
 @tailwind utilities;
 
 body{
-    height: 600px;
-    width: 600px;
+    height: 800px;
+    width: 800px;
 }
