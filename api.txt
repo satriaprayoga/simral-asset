@@ -1,0 +1,16 @@
+LOGIN:
+POST http://bogor.atisisbada.id/penerimaan2022/api_v2.php?Pg=Login
+body: username:kabbogor
+      password:bogorpancakarsa
+      
+BAST:
+GET http://bogor.atisisbada.id/penerimaan2022/api_v2.php?Pg=bast_penerimaan
+POST http://bogor.atisisbada.id/penerimaan2022/api_v2.php?Pg=bast_penerimaan
+body: jns_trans: 1|2
+      tahun_anggaran: 2021
+      kode_skpd:
+      cara_perolehan: PEMBELIAN, dst
+      metode_pembayaran: 
+      start:
+      limit:
+      
